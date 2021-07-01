@@ -1,0 +1,38 @@
+
+  .monthTitle{
+    position:relative;
+    left: 20px;
+  }
+
+.frameWrite{
+  position:relative;
+  left: 30px;
+}
+
+.leftDisplay{
+  position: relative;
+  right: 20px;
+  bottom: 110px;
+
+}
+
+.rightDisplay{
+  position: relative;
+  left: 200px;
+  bottom: 135px;
+
+}
+
+.dayColor{
+  text-align: center;
+  background-color: #D7EEFF;
+  font-weight: 600;
+}
+
+.yasumiRed{
+  color:#DD0000;
+}
+
+.yasumiBlue{
+  color:#0000FF;
+}
